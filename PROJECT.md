@@ -138,11 +138,11 @@ Assim evitamos que em caso de rodar múltiplas vezes o programa, ele não colete
 
 Caso tudo corra bem, você deve obter contornos de RMSE em função das latitudes e longitudes como o ilustrado abaixo.
 
-![Screenshot](Contorno do RMSE da temperatura para o dia 16 04 2018 18.jpeg)
+<img src="https://github.com/RubensFPereira/Desafio_climatempo/blob/b2f3e24fcbe26b99ee7c3c993acdbbbe7d39d172/Contorno%20do%20RMSE%20da%20temperatura%20para%20o%20dia%2016%2004%202018%2018.jpeg" width="350" height="300">
 
- 
+
 E um gráfico da série temporal variação do RMSE:
 
-![Screenshot](Variação Da RMSE Temperatura a cada 6H .png)
+ <img src=https://github.com/RubensFPereira/Desafio_climatempo/blob/b2f3e24fcbe26b99ee7c3c993acdbbbe7d39d172/Varia%C3%A7%C3%A3o%20Da%20RMSE%20Temperatura%20a%20cada%206H%20.png  width="350" height="300">
  
  
