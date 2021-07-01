@@ -3,7 +3,7 @@
 Neste projeto criamos um programa para gerar a partir de arquivos NetCDF contornos de duas dimensões e series temporais da Raiz do erro quadrático médio (RMSE).
 Além, dos gráficos, o programa também permite que um novo arquivo NetCDF seja criado e salvo pelo usuário.
 
-A RMSE é obtida a partir de duas variáveis, uma observada (o) e outra modelada ou prevista (f) utilizando a equação:
+A RMSE é obtida a partir de duas variáveis, uma observada (o) e outra modelada ou prevista (f) utilizando a equação :
 
 <img src="https://i.imgur.com/MlK4w0X.png" alt="RMSE - Root Mean Square Error" />
 
